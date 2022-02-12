@@ -47,6 +47,9 @@ FROM unique_titles
 GROUP BY title 
 ORDER BY COUNT DESC;
 
+SELECT COUNT(DISTINCT re.title)
+From re_titles as re;
+
 SELECT * FROM retiring_titles;
 
 -- CREATING A LIST OF EMPLOYEES FOR POTENIAL MENTORSHIP PROGRAM
