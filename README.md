@@ -1,5 +1,5 @@
 # Employees-SQL
-### Overview Analysis: The purpose of this analysis is to understand the relationships between the departments and its current employees who were born between January 1, 1952, and December 31, 1955. Because of the duplicated entries due to promotion and transfer from departments. While taking into account the employees who have left the company since and the ones who are still reminding listing the pool for potential mentorship programs under the current structure.
+### Overview Analysis: The purpose of this analysis is to break down the relationships between the departments and its current employees who were born between January 1, 1952, and December 31, 1955. Because of the duplicated entries due to promotion and transfer from departments. While taking into account the employees who have left the company since and the ones who are still reminding listing the pool for potential mentorship programs under the current structure.
 ### Results :
 * There are seven titles/positions facing an upcoming retirement.
 * Majority of the employees facing retirement comprised most of the senior-level positions.
